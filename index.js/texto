@@ -1,1 +1,5 @@
  
+Var= "Olá"
+Const Num=8;
+Console.log(soma)
+Let num=4;
